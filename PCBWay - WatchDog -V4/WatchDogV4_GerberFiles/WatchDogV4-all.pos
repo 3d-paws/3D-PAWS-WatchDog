@@ -1,0 +1,26 @@
+### Footprint positions - created on Thu Dec 14 17:32:34 2023 ###
+### Printed by KiCad version (7.0.0)
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref       Val                                                Package                                                 PosX       PosY       Rot  Side
+1K          R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal  R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   102.8700   -57.6580   90.0000  top
+1N4004      D_A-405_P10.16mm_Horizontal                        D_A-405_P10.16mm_Horizontal                          98.9330   -57.6580   90.0000  top
+2N2222A     TO-92L_Inline_Wide                                 TO-92L_Inline_Wide                                  104.0130   -42.0370  180.0000  top
+10K_C2      R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal  R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   106.0450   -45.7200    0.0000  top
+10K_C3      R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal  R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   101.8540   -64.8970    0.0000  top
+10K_RX      R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal  R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal    88.9000   -61.0870    0.0000  top
+22K_RX      R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal  R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   101.4730   -61.0870    0.0000  top
+220R_DRAIN  R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal  R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal    86.3600   -61.0870  180.0000  top
+330R_C1     R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal  R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   116.7130   -42.0370  180.0000  top
+330uf       CP_Radial_D5.0mm_P2.50mm                           CP_Radial_D5.0mm_P2.50mm                            119.3800   -58.4200   90.0000  top
+BAT_IN      JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal            JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal              82.8040   -44.2330  180.0000  top
+BAT-OUT     JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal            JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal              75.1680   -44.2330  180.0000  top
+LED         LED_D3.0mm                                         LED_D3.0mm                                          121.5440   -42.7990  180.0000  top
+MicroUSB    USB_Micro-B_Amphenol_10104110_Horizontal           USB_Micro-B_Amphenol_10104110_Horizontal            125.3750   -53.3250   90.0000  top
+PICAXE      DIP-8_W7.62mm_LongPads                             DIP-8_W7.62mm_LongPads                              106.6900   -57.1650   90.0000  top
+REF**       PinHeader_1x04_P2.54mm_Horizontal                  PinHeader_1x04_P2.54mm_Horizontal                    87.6300   -44.3230   90.0000  top
+REF**       PinHeader_1x03_P2.54mm_Vertical                    PinHeader_1x03_P2.54mm_Vertical                     120.3810   -64.7700  -90.0000  top
+REF**       PinHeader_1x04_P2.54mm_Vertical                    PinHeader_1x04_P2.54mm_Vertical                      98.6790   -64.8970  -90.0000  top
+RELAY       DIP-16_W7.62mm_LongPads                            DIP-16_W7.62mm_LongPads                              95.3770   -49.5300  -90.0000  top
+TO_MICRO    USB_A_Molex_67643_Horizontal                       USB_A_Molex_67643_Horizontal                         71.4000   -49.8400  -90.0000  top
+## End
